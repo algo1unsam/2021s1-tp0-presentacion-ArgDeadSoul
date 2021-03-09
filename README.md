@@ -1,6 +1,10 @@
 # Presentación
 
-## Estudiante: _COMPLETAR CON TU NOMBRE_
+## Estudiante: Rodrigo Bermudez
+
+Soy estudiante de programacion, empece con desarrollo web, luego estudia algunos
+lenguajes y de momento estoy trabajando como programador.
+Hoy no comi ni voy a comer milanesas :(
 
 Esta práctica está pensada para ir familiarizándose con la plataforma de GitHub, herramienta que vamos a estar usando para las entregas de TPs.
 
